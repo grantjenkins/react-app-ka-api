@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-app-ka-api/static/css/main.a617e044.chunk.css",
-    "main.js": "/react-app-ka-api/static/js/main.2a989fc1.chunk.js",
-    "main.js.map": "/react-app-ka-api/static/js/main.2a989fc1.chunk.js.map",
+    "main.css": "/react-app-ka-api/static/css/main.f537396b.chunk.css",
+    "main.js": "/react-app-ka-api/static/js/main.40169a98.chunk.js",
+    "main.js.map": "/react-app-ka-api/static/js/main.40169a98.chunk.js.map",
     "runtime-main.js": "/react-app-ka-api/static/js/runtime-main.3bb1feab.js",
     "runtime-main.js.map": "/react-app-ka-api/static/js/runtime-main.3bb1feab.js.map",
     "static/js/2.d3d0b3ed.chunk.js": "/react-app-ka-api/static/js/2.d3d0b3ed.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.2714e84a.chunk.js": "/react-app-ka-api/static/js/3.2714e84a.chunk.js",
     "static/js/3.2714e84a.chunk.js.map": "/react-app-ka-api/static/js/3.2714e84a.chunk.js.map",
     "index.html": "/react-app-ka-api/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/react-app-ka-api/static/css/main.a617e044.chunk.css.map",
+    "static/css/main.f537396b.chunk.css.map": "/react-app-ka-api/static/css/main.f537396b.chunk.css.map",
     "static/js/2.d3d0b3ed.chunk.js.LICENSE.txt": "/react-app-ka-api/static/js/2.d3d0b3ed.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-app-ka-api/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3bb1feab.js",
     "static/js/2.d3d0b3ed.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.2a989fc1.chunk.js"
+    "static/css/main.f537396b.chunk.css",
+    "static/js/main.40169a98.chunk.js"
   ]
 }
